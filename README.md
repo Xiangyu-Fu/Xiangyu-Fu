@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiangyu-Fu&hide=prs&count_private=true&show_icons=true&theme=graywhite" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xiangyu-Fu&hide=prs&count_private=true&show_icons=true&theme=graywhite" />
 </a>
+
+I love everything that is cool ✨.
+
+Now I’m currently learning on Robotics, Machine Learning, and electronics. And I am happy to share with you my tiny projects.
