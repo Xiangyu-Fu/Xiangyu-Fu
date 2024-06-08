@@ -23,5 +23,7 @@ I love everything that is cool ✨.
 
 Now I’m currently learning on Robotics, Machine Learning, and electronics. And I am happy to share with you my tiny projects.
 
+My personal website: https://xiangyu-fu.github.io/
+
 
   
